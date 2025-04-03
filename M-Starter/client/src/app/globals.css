@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+body{
+  z-index: 0;
+  background-color: white;
+}
+
+
+h1{
+  font-size: 64px;
+  line-height: 120%;
+}
+
+h2{
+  font-size: 38px;
+  line-height: 120%;
+}
+
+h3{
+  font-size: 24px;
+  line-height: 130%;
+}
+
+h4{
+  font-size: 18px;
+  line-height: 130%;
+}
+
+h5{
+  font-size: 14px;
+  line-height: 130%;
+}
